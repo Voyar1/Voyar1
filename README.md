@@ -16,7 +16,7 @@
 
 ## Tech I use
 
-![My Skills](https://skillicons.dev/icons?i=git,github,javascript,typescript,react,nextjs,css)
+![My Skills](https://skillicons.dev/icons?i=react,javascript,typescript,nextjs,css,git,github)
 
 
 ## Some stats
