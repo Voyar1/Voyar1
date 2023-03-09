@@ -14,6 +14,8 @@
 
 🏋🏼 In my free time I like to exercise
 
+🎓 I am currently learning TypeScript
+
 ## Tech I use
 
 ![My Skills](https://skillicons.dev/icons?i=react,javascript,typescript,nextjs,css,git,github)
