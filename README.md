@@ -4,7 +4,7 @@
 
 💻 All of my projects are available in [my portfolio](https://voyar1.github.io/react-portfolio-website/)
 
-📧 Contact me [Click here](https://voyar1.github.io/react-portfolio-website/#contact)
+<!-- 📧 Contact me [Click here](https://voyar1.github.io/react-portfolio-website/#contact) -->
 
 ## About me
 
