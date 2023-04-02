@@ -10,6 +10,8 @@
 
 👋🏼 I have been working in seo for about a year
 
+👨‍💻 I am currently working on Next.js Ecommerce Project
+
 💻 I am constantly expanding my knowledge in web development
 
 🏋🏼 In my free time I like to exercise
