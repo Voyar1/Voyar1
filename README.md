@@ -8,7 +8,7 @@
 
 ## About me
 
-👋🏼 I have been working in seo for about a year
+👋🏼 I have been working in seo for about 2 years
 
 👨‍💻 I am currently working on Next.js Ecommerce Project
 
