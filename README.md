@@ -1,6 +1,6 @@
 <img alt="Hello I'm Arek" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=76c5e7;&center=false&vCenter=true&width=435&lines=Hello+I'm+Arek">
 
-## Important links
+<!--## Important links
 
 <!-- 💻 All of my projects are available in [my portfolio](https://voyar1.github.io/react-portfolio-website/)-->
 
